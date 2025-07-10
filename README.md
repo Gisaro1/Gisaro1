@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm [Gisaro Billy]
 
 - 🔭 I’m currently working on **JavaScript/HTML/CSS** projects.
 - 🌱 Learning **React**.
