@@ -1,117 +1,119 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gisaro&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=fff&desc=Developer%20from%20Rwanda%20🇷🇼&descAlignY=58&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gisaro%20Billy&fontSize=60&fontAlignY=38&fontColor=ffffff&desc=Frontend%20Developer%20·%20Kigali,%20Rwanda&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<h1 align="center">Hi there, I'm Gisaro 👋</h1>
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Tailwind+CSS+Enthusiast;Open+Source+Contributor;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+things+for+the+web;JavaScript+%7C+React+%7C+Tailwind+CSS;Always+writing+cleaner+code+than+yesterday" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gisaro1&label=Profile%20views&color=6366f1&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Gisaro1&label=Profile+Views&color=7c3aed&style=flat-square" />
   <a href="https://github.com/Gisaro1?tab=followers">
-    <img src="https://img.shields.io/github/followers/Gisaro1?label=Followers&style=social" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Gisaro1?label=Followers&style=flat-square&color=7c3aed&labelColor=1e1e2e" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Kigali%2C%20Rwanda-green?style=flat-square&logo=google-maps" alt="location"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-yes-7c3aed?style=flat-square" />
 </p>
 
 ---
 
-## 🌟 About Me
+### Who I Am
 
-```javascript
-const gisaro = {
-  location:  "Kigali, Rwanda 🇷🇼",
-  learning:  ["React", "Node.js", "Tailwind CSS"],
-  askMeAbout: ["HTML", "CSS", "JavaScript", "React"],
-  funFact:   "I love solving coding challenges & building real-world apps ⚡",
-  currentlyBuilding: "Quiz App 🧠",
-};
-```
+I'm a self-driven frontend developer from Kigali, Rwanda, focused on building clean, functional web applications with JavaScript and modern tooling. I learn best by building real things — from quiz apps to codewars challenges — and I'm currently growing into the React and Node.js ecosystem.
 
-- 🔭 Currently working on my **Quiz App** and **Gisaro-Billy** project
-- 🌱 Deepening my skills in **React, Node.js, and Tailwind CSS**
-- 👯 Looking to collaborate on **open source JavaScript projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- ⚡ Fun fact: I love solving coding challenges on **Codewars**
+I care about writing code that's readable, maintainable, and actually works for the people using it.
+
+- Currently building: **Quiz App** — a browser-based app with auth, session management, and scoring
+- Learning: **React, Node.js, Tailwind CSS**
+- Open to collaborating on: **open source JavaScript projects**
+- Reach me at: [gisaroblanks@gmail.com](mailto:gisaroblanks@gmail.com)
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gisaro1&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" alt="trophies"/>
-</p>
-
----
-
-## 🛠️ Languages & Tools
+### Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,git,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gisaro1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gisaro1&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gisaro1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gisaro1&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisaro1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisaro1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
-
----
-
-## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gisaro1/Gisaro1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gisaro1&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph" width="95%" />
 </p>
 
 ---
 
-## 🏗️ Featured Projects
+### Contribution Snake
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🧠 Quiz App](https://github.com/Gisaro1/Quiz-app) | A browser-based quiz app with login, scoring, and session management | HTML, CSS, JS, Tailwind |
-| [⚔️ Codewars Solutions](https://github.com/Gisaro1/codewars) | My collection of Codewars challenge solutions | JavaScript |
-| [🎨 Gisaro-Billy](https://github.com/Gisaro1/Gisaro-Billy) | Personal project showcasing frontend skills | HTML, CSS |
-| [🌐 Final](https://github.com/Gisaro1/Final) | HTML project | HTML |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gisaro1/Gisaro1/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</p>
 
 ---
 
-## 🤝 Connect with Me
+### Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/Gisaro1/Quiz-app">Quiz App</a></h4>
+      <p>A fully functional browser quiz with user authentication, localStorage session management, score tracking, and a clean Tailwind UI.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/Gisaro1/codewars">Codewars Solutions</a></h4>
+      <p>A growing collection of JavaScript solutions to Codewars katas — my daily practice for sharpening problem-solving and clean code habits.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/Gisaro1/Gisaro-Billy">Gisaro-Billy</a></h4>
+      <p>A personal frontend project exploring UI design, layout, and responsive web development fundamentals.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/Gisaro1/Final">Final</a></h4>
+      <p>An HTML project built to consolidate core web fundamentals and practice structured markup.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/gisaro-billy-875775321" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/gisaro.cccxlvii" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:gisaroblanks@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.codewars.com/users/Gisaro1" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
   </a>
 </p>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
