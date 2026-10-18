@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1400&color=A78BFA&center=true&vCenter=true&width=480&lines=Building+clean+web+experiences;JavaScript+%7C+React+%7C+Tailwind" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1400&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+clean+web+experiences;TypeScript+%7C+React+%7C+Tailwind+%7C+Node.js" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,21 +11,21 @@
 ### About
 
 Frontend developer based in Kigali.  
-I build simple, functional web applications with a focus on clarity and performance.  
-I learn by shipping — currently deepening my work with React and Node.js.
+I build simple, functional web applications with a focus on clarity, performance, and maintainable code.  
+I learn by shipping — currently deepening my work with React, TypeScript, and Node.js.
 
 **Currently building**  
 [Quiz App](https://github.com/Gisaro1/Quiz-app) — browser-based quiz with authentication, session management, and scoring.
 
 **Open to**  
-Collaborating on thoughtful JavaScript projects.
+Collaborating on thoughtful JavaScript and TypeScript projects.
 
 ---
 
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,tailwind,nodejs,git,vscode&theme=dark" />
 </p>
 
 ---
@@ -34,11 +34,11 @@ Collaborating on thoughtful JavaScript projects.
 
 **[Quiz App](https://github.com/Gisaro1/Quiz-app)**  
 Fully functional quiz experience with auth, localStorage sessions, score tracking, and a clean Tailwind interface.  
-`JavaScript` · `Tailwind CSS` · `HTML`
+`TypeScript` · `JavaScript` · `Tailwind CSS` · `HTML`
 
 **[Codewars Solutions](https://github.com/Gisaro1/codewars)**  
 Daily practice solving katas. Focus on readable solutions and better problem-solving habits.  
-`JavaScript`
+`JavaScript` · `TypeScript`
 
 **[Gisaro-Billy](https://github.com/Gisaro1/Gisaro-Billy)**  
 Personal project exploring layout, UI patterns, and responsive fundamentals.  
